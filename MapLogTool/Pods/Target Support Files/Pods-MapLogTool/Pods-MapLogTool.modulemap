@@ -1,0 +1,6 @@
+framework module Pods_MapLogTool {
+  umbrella header "Pods-MapLogTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
